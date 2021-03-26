@@ -1,0 +1,6 @@
+register
+exit
+login
+logout
+showinfo
+help
